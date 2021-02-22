@@ -1,0 +1,15 @@
+#title {
+	color: #036203;
+	font-weight: bold;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: italic;
+}
+.my-container {
+	border: medium dotted #F5787A;
+	text-align: center;
+}
+.background {
+	background-image: url(../images/grass.jpeg);
+	background-size: cover;
+	color: #FFFFFF;
+}
