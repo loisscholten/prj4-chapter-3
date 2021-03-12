@@ -13,7 +13,11 @@
 .my-container {
 	border: medium dotted #F5787A;
 	text-align: center;
+	size: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
+
 .background {
 	background-size: cover;
 	color: #FFFFFF;
@@ -58,4 +62,23 @@ header {
 	background-image: url(../images/grass.jpeg);
 	background-clip: padding-box;
 	background-origin: padding-box;
+}
+.image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300pt;
+}
+.list {
+	text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: italic;
+	color: #F5787A;
+	list-style-position: inside;
+}
+.paragraph {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: italic;
+	text-align: left;
+	font-size: small;
 }
