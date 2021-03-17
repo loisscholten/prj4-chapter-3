@@ -10,12 +10,13 @@
 	font-style: italic;
 	text-align: center;
 }
-.my-container {
+.container {
+	display: block;
 	border: medium dotted #F5787A;
 	text-align: center;
-	size: auto;
 	margin-left: auto;
 	margin-right: auto;
+	width: 300px;
 }
 
 .background {
