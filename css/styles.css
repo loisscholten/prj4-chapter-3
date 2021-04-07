@@ -70,11 +70,14 @@ header {
 	width: 300pt;
 }
 .list {
-	text-align: center;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	font-style: italic;
 	color: #F5787A;
+	margin-left: 350pt;
+	margin-right: 350pt;
+	text-align: center;
 	list-style-position: inside;
+	border: thin groove #036203;
 }
 .paragraph {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
